@@ -1,66 +1,41 @@
-<h1 align="center">Hi 👋, I'm Monte</h1>
-<h3 align="center">A Software Engineer from Italy</h3>
+### Hi, I'm Monte 👋
 
-- 📝 I regularly write articles on [https://montelli.dev](https://montelli.dev)
-- 📄 Know about my experiences [https://montelli.dev/#experiences](https://montelli.dev/#experiences)
-- 📫 How to reach me **francesco@montelli.dev**
+I design, build and automate the software behind your product.
+From scratch, or on a system grown rigid over time.
 
+Freelance Software Engineer based in Italy. I work from analysis and architecture to the build, then on the processes that keep quality high: testing, CI/CD, observability, security. And the team stays able to carry on without me.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/francesco-montelli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-montelli" height="30" width="40" /></a>
-</p>
+### 🎤 Talks
 
-<h3 align="left">Languages & Programming</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-</p>
+| When | Where | Talk | Material |
+|------|-------|------|----------|
+| **28 Nov 2026** · upcoming | [DevFest Alps](https://devfest.gdgtorino.it/), Turin | **Where did your tokens go? Tracing a multi-agent system with OpenTelemetry** | |
+| 29 Oct 2026 | [mlopsday](https://www.mlopsday.it), Bologna | The model doesn't fit: the levers to run it anyway | [slides](https://montelli.dev/files/talk-moe-streaming-mlopsday-2026.pdf) · [code](https://github.com/monte97/mlopsday-2026-moe-streaming) |
+| 24 Oct 2026 | [Linux Day Prato](https://day.linux.prato.it) | Open source WAF: Coraza and Caddy to protect your services | [slides](https://montelli.dev/files/talk-waf-linux-day-prato-2026.pdf) · [code](https://github.com/monte97/waf-open-source-coraza-caddy) · [article](https://montelli.dev/blog/verificare/security/waf-open-source-coraza-caddy/) |
+| 14 Oct 2026 | [DevSecOpsDay](https://www.devsecopsday.it), Bologna | Beyond roles: relationship-based authorization with OpenFGA | [slides](https://montelli.dev/files/talk-openfga-devsecopsday-2026.pdf) · [code](https://github.com/monte97/openfga-oltre-i-ruoli-demo) · [article](https://montelli.dev/blog/verificare/openfga/06-oltre-i-ruoli/) |
+| 10 Oct 2026 | [DevFest Milano](https://2026.devfestmilano.it) | Incidents don't speak PromQL: a natural interface over your observability stack | [slides](https://montelli.dev/files/talk-promql-devfest-milano-2026.pdf) · [code](https://github.com/monte97/observability-agent-lab) · [article](https://montelli.dev/blog/verificare/observability/incidente-non-parla-promql/) |
+| 18 Jun 2026 | [Working Software](https://www.agilemovement.it/workingsoftware/), Reggio Emilia | How mutation testing showed me my test suite was lying | [code](https://github.com/monte97/mutation-testing-ws2026-slides) · [article](https://montelli.dev/blog/verificare/testing/mutation-testing-oltre-la-coverage/) |
+| 13 May 2026 | DevRomagna, Faenza | Your most productive colleague writes useless tests | [code](https://github.com/monte97/il-tuo-collega-piu-produttivo) · [article](https://montelli.dev/blog/verificare/testing/chiudere-il-loop-mutation-testing/) |
 
-<h3 align="left">Backend & Middleware</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-</p>
+Talks given in Italian. Abstracts on [montelli.dev/en/talks](https://montelli.dev/en/talks/).
 
-<h3 align="left">Frontend</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-</p>
+### The method: three pillars, in this order
 
-<h3 align="left">Databases</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-</p>
+1. **Design**: there's no going back without paying, so design decisions come first.
+2. **Verify**: making sure it actually works, under load, under attack, over time.
+3. **Automate**: only after designing and verifying, because automation amplifies everything above it, mistakes included.
 
-<h3 align="left">DevOps & Infrastructure</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-</p>
+### On [montelli.dev](https://montelli.dev/en/)
 
-<h3 align="left">Observability & Monitoring</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
-</p>
+- [Case studies](https://montelli.dev/en/case-study/): real projects, told through the decisions that shaped them
+- [Workshops](https://montelli.dev/en/workshop/): observability with OpenTelemetry and LGTM, mutation testing, and more, run with the team on your stack
+- [Blog](https://montelli.dev/en/blog/): OpenTelemetry, Kafka, Kubernetes, OpenFGA, Keycloak, testing
 
-<h3 align="left">Other Tools</h3>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/>
-</p>
+### More code
+
+- [iot-observability-demo](https://github.com/monte97/iot-observability-demo): distributed tracing across Node, Python and Java over Kafka, with OpenTelemetry and LGTM
+- [keycloak-webhook-provider](https://github.com/monte97/keycloak-webhook-provider): Keycloak SPI for webhooks, with circuit breaker and HMAC signing
+
+**Stack I work with most**: Go, C#/.NET, Java, Python, TypeScript · Kafka, PostgreSQL · Docker, Kubernetes, OpenTofu, Ansible · OpenTelemetry, Grafana LGTM · Keycloak, OpenFGA · Playwright, k6
+
+📫 [francesco@montelli.dev](mailto:francesco@montelli.dev) · [LinkedIn](https://linkedin.com/in/francesco-montelli) · [Book a 30 min call](https://cal.com/francesco-montelli-4hfojq/30min)
